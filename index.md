@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my Blog!
+title: Open and Free Source
 ---
 {% include JB/setup %}
 ## Introduce.Me()
