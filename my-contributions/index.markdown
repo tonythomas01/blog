@@ -9,4 +9,5 @@ wordpress_id: 314
 ---
 
 My small contributions to the wide open source :)
-[googleapps domain="docs" dir="spreadsheet/pub" query="key=0AsJDVmDxOfe5dDduX0lJQTVWb3FHU1B6VjJVUm45aEE&single=true&gid=0&output=html&widget=true" width="1000" height="800" /]
+
+<iframe src="https://docs.google.com/spreadsheet/pub?key=0AsJDVmDxOfe5dDduX0lJQTVWb3FHU1B6VjJVUm45aEE&amp;output=html&amp;widget=true" style="width: 100%;  height: 800px"  frameborder="0"></iframe>
