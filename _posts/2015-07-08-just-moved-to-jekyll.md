@@ -5,7 +5,6 @@ description: "Had been stuck with Wordpress for few years"
 category: 
 tags: [ 'moved to Jekyll']
 ---
-{% include JB/setup %}
 
 This would probably be my first blog after movign to Jekyll, and I need to tell you that I'm happy about it :) Its great for me to type in my favourite text editor ( sublime_text as of now ) my blog entries, and publishing the same in quite few steps. 
 
