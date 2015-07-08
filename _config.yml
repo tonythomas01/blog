@@ -131,3 +131,7 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+   buffer_access_token : '1/70f1db7ac1449d5115d4f5a39e1e5764'
+   buffer_profiles :
+      facebook : '559ce9d4457a070307336c59'
+      twitter : '559cea1f457a07df08336c54'
