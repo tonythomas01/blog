@@ -10,7 +10,7 @@ promotion : "Setting up your OpenShift catridge to host Phabricator - the most s
 
 This should be the most simple steps in the Phabricator hosting steps. You have online manuals for everything, but I am quoting it here to make things look from 0 to 1. 
 
-## Getting things ready
+#### Getting things ready
 
 * Create an account in [www.openshift.redhat.com](http://openshift.redhat.com)
 * Create a new app, you can find instructions [here](https://developers.openshift.com/en/php-getting-started.html) and install a PHP latest catridge - which might be **PHP 5.4**.
