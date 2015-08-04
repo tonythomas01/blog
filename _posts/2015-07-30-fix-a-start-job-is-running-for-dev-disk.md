@@ -5,9 +5,8 @@ description: "Fixing the disk check issue slowing boot time in Linux"
 category: FOSS, Linux
 tags: [slow start debian, ubuntu start job, fstab edit, swap off]
 ---
-{% include JB/setup %}
 
-I have been stuck with this error for few days thinking it was something wrong with the kernel, but it looks like it came from a wrong entry in `/etc/fstab`. Lets dry dissecting the same here.
+I have been stuck with this error for few days thinking it was something wrong with the kernel, but it looks like it came from a wrong entry in `/etc/fstab`. Lets try dissecting the same here.
 
 **Problem**
 
