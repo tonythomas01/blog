@@ -7,7 +7,7 @@ title: Open and Free Source
     Name: Tony Thomas
     Gender: Male
     Language: Malayalam, English, Python, PHP
-    Interests: Web Development, Mail serveres
+    Interests: Web Development, Mail servers
     E-mail : tony [at] thinkfoss [dot] com
 
 --------------
