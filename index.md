@@ -6,13 +6,13 @@ title: Open and Free Source
 ## Introduce.Me()
     Name: Tony Thomas
     Gender: Male
-    Language: Malayalam, English, PHP 
-    Interests: Web Development, E-Mails
-    E-mail : 01tonythomas [at] gmail [dot] com
+    Language: Malayalam, English, Python, PHP
+    Interests: Web Development, Mail serveres
+    E-mail : tony [at] thinkfoss [dot] com
 
 --------------
 
-## Latest Post 
+## Latest Post
 <ul class="posts">
   {% for post in site.posts limit:1 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
@@ -33,5 +33,3 @@ title: Open and Free Source
 ## Note
 
 I just moved my blog from [tttwrites.wordpress.com](http://tttwrites.wordpress.com) to here. So, ignore things for a while.
-
-
